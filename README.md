@@ -1,4 +1,4 @@
 # hello-world
-Hello World repository for Git 
+Hello World repository
 This is an example repository for Git 
-it now includes steps for GitHub
+It now includes steps for GitHub
